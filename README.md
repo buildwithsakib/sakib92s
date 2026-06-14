@@ -104,6 +104,11 @@ I like creating clean websites, backend systems, and learning new technologies i
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sakib92s/sakib92s/main/github-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
 
 # 📊 GitHub Stats
 
